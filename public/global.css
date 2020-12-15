@@ -1,0 +1,13 @@
+@import "https://unpkg.com/chota@latest";
+
+html,
+body {
+  background-color: #f6f6ef;
+  width: 100%;
+  height: 100%;
+}
+
+.hoverItem:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
