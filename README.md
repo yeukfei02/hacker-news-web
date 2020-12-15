@@ -2,7 +2,7 @@
 
 hacker-news-web
 
-url:
+url: https://hacker-news-web.vercel.app/
 
 ## Requirement:
 
