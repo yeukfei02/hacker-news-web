@@ -1,10 +1,12 @@
 @import "https://unpkg.com/chota@latest";
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
 
 html,
 body {
   background-color: #f6f6ef;
   width: 100%;
   height: 100%;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .hoverItem:hover {
