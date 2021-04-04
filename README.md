@@ -2,16 +2,16 @@
 
 hacker-news-web
 
-url: https://hacker-news-web.vercel.app/
+url: <https://hacker-news-web.vercel.app/>
 
-## Requirement:
+## Requirement
 
 - install yarn
 - install node (v12+)
 
-## Testing and run:
+## Testing and run
 
-```
+```zsh
 $ yarn
 
 // development
